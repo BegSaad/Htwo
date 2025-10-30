@@ -1,16 +1,14 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
-import { hp,wp } from '../utils/Responsiveness';
 
-
-const CTIcons = () => {
+const OnboardTwo = () => {
   return (
     <View>
-      <Text>CTIcons</Text>
+      <Text>OnboardTwo</Text>
     </View>
   )
 }
 
-export default CTIcons
+export default OnboardTwo
 
 const styles = StyleSheet.create({})
